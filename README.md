@@ -3,10 +3,10 @@
 A hybrid deep learning framework for malicious URL detection, utilizing **CNN-LSTM** architecture and advanced domain-level aggregation strategies: **SPhS**, **MSS**, and **WeAS**.
 
 ## Project Overview
-This project presents a robust, AI-driven framework for detecting phishing threats by analyzing URL character sequences and metadata. Developed as part of my **Master in Information Security at Universiti Putra Malaysia (UPM)**, this research moves beyond simple binary classification by implementing advanced Domain-Level Decision Strategies to account for webpage contextual relationships.
+This project presents a robust, deep learning framework for detecting phishing threats by analyzing URL character sequences and metadata. This research moves beyond simple binary classification by implementing advanced Domain-Level Decision Strategies to account for webpage contextual relationships.
 
 ## The Problem Statement
-Traditional detection methods often fail because they examine URLs independently (atomic analysis). They disregard the structural and contextual relationships within webpage architecture, allowing sophisticated phishing campaigns to evade detection by hiding malicious payloads in specific sub-components (scripts/iframes).
+Traditional detection methods often fail because they examine URLs independently. They disregard the structural and contextual relationships within webpage architecture, allowing sophisticated phishing campaigns to evade detection by hiding malicious payloads in specific sub-components (scripts/iframes).
 
 ## The Objective
 To develop a hybrid architecture that:
